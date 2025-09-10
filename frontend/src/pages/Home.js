@@ -25,7 +25,9 @@ function Home() {
       <button onClick={handleBeautyCenterClick} className='beautyCenter-button'>
         BeautyCenter
       </button>
-
+      <button className='browsWithoutSignIn-button'>
+        Browsing without Sign In
+      </button>
     </>
   );
 }
